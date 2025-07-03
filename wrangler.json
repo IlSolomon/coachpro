@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "coachpro",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "af2b3759-6dad-44c6-b049-0d16a295bb6a",
+      "database_name": "coach-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
